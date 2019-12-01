@@ -1,6 +1,8 @@
 package org.redquark.hundred.algorithms;
 
+import static org.junit.jupiter.api.Assertions.assertDoesNotThrow;
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertThrows;
 
 import org.junit.jupiter.api.Test;
 
@@ -42,6 +44,14 @@ class _01TowerOfHanoiTest {
 	 */
 	@Test
 	void testGetCountOfOperations() {
+		final RuntimeException re = assertThrows(RuntimeException.class, () -> {
+			toh.getCountOfOperations();
+		});
+		assertEquals("Please perform move operations first", re.getMessage());
+		assertDoesNotThrow(() -> {
+			toh.moveOperations(3);
+			toh.getCountOfOperations();
+		});
 		toh.moveOperations(3);
 		assertEquals(Math.pow(2, 3) - 1, toh.getCountOfOperations());
 		toh.moveOperations(4);

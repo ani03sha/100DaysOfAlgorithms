@@ -46,7 +46,15 @@ public class _01TowerOfHanoi {
 		return result.toString();
 	}
 
+	/**
+	 * This method returns the count of operations needed to move all discs from the
+	 * "from" tower to the "to" tower.
+	 */
 	public int getCountOfOperations() {
+		// This means that the move operations have not been called yet
+		if (count == 0) {
+			throw new RuntimeException("Please perform move operations first");
+		}
 		return count;
 	}
 }
