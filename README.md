@@ -3,7 +3,7 @@
 This repository contains 100 algorithms - one for each day. This is inspired from - [100 days of Algorithms](https://medium.com/100-days-of-algorithms).
 
 - [x] Tower of Hanoi
-- [ ] Matrix Chain Multiplication
+- [x] Matrix Chain Multiplication
 - [ ] Next Permutation
 - [ ] Counting 1-Bits
 - [ ] Eratosthenes Sieve
