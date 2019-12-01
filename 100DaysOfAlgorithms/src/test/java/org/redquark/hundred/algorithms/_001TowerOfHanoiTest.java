@@ -10,14 +10,14 @@ import org.junit.jupiter.api.Test;
  * @author Anirudh Sharma
  *
  */
-class _01TowerOfHanoiTest {
+class _001TowerOfHanoiTest {
 
 	// Instance of the Tower of Hanoi class
-	_01TowerOfHanoi toh = new _01TowerOfHanoi();
+	_001TowerOfHanoi toh = new _001TowerOfHanoi();
 
 	/**
 	 * Test method for
-	 * {@link org.redquark.hundred.algorithms._01TowerOfHanoi#moveOperations(int)}.
+	 * {@link org.redquark.hundred.algorithms._001TowerOfHanoi#moveOperations(int)}.
 	 */
 	@Test
 	void testMoveOperations() {
@@ -40,7 +40,7 @@ class _01TowerOfHanoiTest {
 
 	/**
 	 * Test method for
-	 * {@link org.redquark.hundred.algorithms._01TowerOfHanoi#getCountOfOperations()}.
+	 * {@link org.redquark.hundred.algorithms._001TowerOfHanoi#getCountOfOperations()}.
 	 */
 	@Test
 	void testGetCountOfOperations() {

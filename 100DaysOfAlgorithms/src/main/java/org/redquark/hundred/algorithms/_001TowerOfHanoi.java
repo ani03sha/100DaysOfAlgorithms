@@ -4,7 +4,7 @@ package org.redquark.hundred.algorithms;
  * @author Anirudh Sharma
  *
  */
-public class _01TowerOfHanoi {
+public class _001TowerOfHanoi {
 
 	private StringBuilder result;
 	private int count;
