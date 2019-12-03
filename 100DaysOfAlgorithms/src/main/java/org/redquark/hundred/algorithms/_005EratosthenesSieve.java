@@ -8,7 +8,7 @@ import java.util.List;
  * @author Anirudh Sharma
  *
  */
-public class EratosthenesSieve {
+public class _005EratosthenesSieve {
 
 	/**
 	 * This method returns the array of prime numbers upto a specified number n

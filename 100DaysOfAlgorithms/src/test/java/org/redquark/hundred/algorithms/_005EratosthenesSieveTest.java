@@ -10,13 +10,13 @@ import org.junit.jupiter.api.Test;
  * @author Anirudh Sharma
  *
  */
-class EratosthenesSieveTest {
+class _005EratosthenesSieveTest {
 
-	EratosthenesSieve es = new EratosthenesSieve();
+	_005EratosthenesSieve es = new _005EratosthenesSieve();
 
 	/**
 	 * Test method for
-	 * {@link org.redquark.hundred.algorithms.EratosthenesSieve#findPrimes(int)}.
+	 * {@link org.redquark.hundred.algorithms._005EratosthenesSieve#findPrimes(int)}.
 	 */
 	@Test
 	void testFindPrimes() {
