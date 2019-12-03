@@ -7,7 +7,7 @@ This repository contains 100 algorithms - one for each day. This is inspired fro
 - [x] Next Permutation
 - [x] Counting 1-Bits
 - [x] Eratosthenes Sieve
-- [ ] Postfix Notation
+- [x] Postfix Notation
 - [ ] Binary Addition FSA
 - [ ] Binary Search
 - [ ] Monte Carlo - π
