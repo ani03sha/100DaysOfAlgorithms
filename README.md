@@ -6,7 +6,7 @@ This repository contains 100 algorithms - one for each day. This is inspired fro
 - [x] Matrix Chain Multiplication
 - [x] Next Permutation
 - [x] Counting 1-Bits
-- [ ] Eratosthenes Sieve
+- [x] Eratosthenes Sieve
 - [ ] Postfix Notation
 - [ ] Binary Addition FSA
 - [ ] Binary Search
