@@ -5,7 +5,7 @@ This repository contains 100 algorithms - one for each day. This is inspired fro
 - [x] Tower of Hanoi
 - [x] Matrix Chain Multiplication
 - [x] Next Permutation
-- [ ] Counting 1-Bits
+- [x] Counting 1-Bits
 - [ ] Eratosthenes Sieve
 - [ ] Postfix Notation
 - [ ] Binary Addition FSA
