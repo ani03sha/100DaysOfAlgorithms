@@ -9,7 +9,7 @@ This repository contains 100 algorithms - one for each day. This is inspired fro
 - [x] Eratosthenes Sieve
 - [x] Postfix Notation
 - [x] Binary Addition FSA
-- [ ] Binary Search
+- [x] Binary Search
 - [ ] Monte Carlo - π
 - [ ] Karatsuba Multiplication
 - [ ] McCarthy 91
