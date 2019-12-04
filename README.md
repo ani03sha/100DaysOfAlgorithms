@@ -12,7 +12,7 @@ This repository contains 100 algorithms - one for each day. This is inspired fro
 - [x] Binary Search
 - [x] Monte Carlo - π
 - [x] Karatsuba Multiplication
-- [ ] McCarthy 91
+- [x] McCarthy 91
 - [ ] Roots of Polynomial
 - [ ] Extended Euclidean Algorithm
 - [ ] Huffman Codes
