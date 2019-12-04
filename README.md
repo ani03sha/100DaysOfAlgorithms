@@ -10,7 +10,7 @@ This repository contains 100 algorithms - one for each day. This is inspired fro
 - [x] Postfix Notation
 - [x] Binary Addition FSA
 - [x] Binary Search
-- [ ] Monte Carlo - π
+- [x] Monte Carlo - π
 - [ ] Karatsuba Multiplication
 - [ ] McCarthy 91
 - [ ] Roots of Polynomial
