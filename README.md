@@ -11,7 +11,7 @@ This repository contains 100 algorithms - one for each day. This is inspired fro
 - [x] Binary Addition FSA
 - [x] Binary Search
 - [x] Monte Carlo - π
-- [ ] Karatsuba Multiplication
+- [x] Karatsuba Multiplication
 - [ ] McCarthy 91
 - [ ] Roots of Polynomial
 - [ ] Extended Euclidean Algorithm
