@@ -16,7 +16,7 @@ This repository contains 100 algorithms - one for each day. This is inspired fro
 - [x] Roots of Polynomial
 - [x] Extended Euclidean Algorithm
 - [x] Huffman Codes
-- [ ] Breaking OTP
+- [x] One Time Pad Encryption
 - [ ] No-Condition Swap
 - [ ] Perceptron
 - [ ] Monopoly
