@@ -18,7 +18,7 @@ This repository contains 100 algorithms - one for each day. This is inspired fro
 - [x] Huffman Codes
 - [x] One Time Pad Encryption
 - [x] No-Condition Swap
-- [ ] Perceptron
+- [x] Perceptron
 - [ ] Monopoly
 - [ ] Counting Inversions
 - [ ] Linearithmic Multiplication
