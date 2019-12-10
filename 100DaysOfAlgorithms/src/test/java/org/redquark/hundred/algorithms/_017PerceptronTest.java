@@ -6,13 +6,13 @@ import org.junit.jupiter.api.Test;
  * @author Anirudh Sharma
  *
  */
-class _17PerceptronTest {
+class _017PerceptronTest {
 
-	_17Perceptron perceptron = new _17Perceptron();
+	_017Perceptron perceptron = new _017Perceptron();
 
 	/**
 	 * Test method for
-	 * {@link org.redquark.hundred.algorithms._17Perceptron#findClass(int, int)}.
+	 * {@link org.redquark.hundred.algorithms._017Perceptron#findClass(int, int)}.
 	 */
 	@Test
 	void testDecisionBoundaryEquation() {

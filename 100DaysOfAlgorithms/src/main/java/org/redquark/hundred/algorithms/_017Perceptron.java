@@ -6,7 +6,7 @@ import java.text.DecimalFormat;
  * @author Anirudh Sharma
  *
  */
-public class _17Perceptron {
+public class _017Perceptron {
 
 	private static final double LEARNING_RATE = 0.1;
 	private static final int NUMBER_OF_INSTANCES = 100;
