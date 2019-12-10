@@ -6,7 +6,7 @@ import java.util.Random;
  * @author Anirudh Sharma
  *
  */
-public class _15OneTimePadEncryption {
+public class _015OneTimePadEncryption {
 
 	// Reference Strings
 	private final String alphaUpperCase;
@@ -15,7 +15,7 @@ public class _15OneTimePadEncryption {
 	// Key for one particular instance of OTP
 	private String key;
 
-	public _15OneTimePadEncryption(String plainText) {
+	public _015OneTimePadEncryption(String plainText) {
 		this.key = getKey(plainText.length());
 		alphaUpperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 		alphaLowerCase = "abcdefghijklmnopqrstuvwxyz";
