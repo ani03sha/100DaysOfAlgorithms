@@ -9,13 +9,13 @@ import org.junit.jupiter.api.Test;
  * @author Anirudh Sharma
  *
  */
-class _12RootsOfPolynomialTest {
+class _012RootsOfPolynomialTest {
 
-	_12RootsOfPolynomial rp = new _12RootsOfPolynomial();
+	_012RootsOfPolynomial rp = new _012RootsOfPolynomial();
 
 	/**
 	 * Test method for
-	 * {@link org.redquark.hundred.algorithms._12RootsOfPolynomial#findRoots(double[])}.
+	 * {@link org.redquark.hundred.algorithms._012RootsOfPolynomial#findRoots(double[])}.
 	 */
 	@Test
 	void testFindRoots() {

@@ -9,7 +9,7 @@ import org.ejml.interfaces.decomposition.EigenDecomposition;
  * @author Anirudh Sharma
  *
  */
-public class _12RootsOfPolynomial {
+public class _012RootsOfPolynomial {
 
 	/**
 	 * This method returns the root for the polynomial whose coefficients are given
