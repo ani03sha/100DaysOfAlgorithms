@@ -4,7 +4,7 @@ package org.redquark.hundred.algorithms;
  * @author Anirudh Sharma
  *
  */
-public class _11McCarthy91 {
+public class _011McCarthy91 {
 
 	/**
 	 * When you plug a natural number N in, McCarthy91 flushes N-10 out, if N is

@@ -8,12 +8,12 @@ import org.junit.jupiter.api.Test;
  * @author Anirudh Sharma
  *
  */
-class _11McCarthy91Test {
+class _011McCarthy91Test {
 
-	_11McCarthy91 m = new _11McCarthy91();
+	_011McCarthy91 m = new _011McCarthy91();
 	
 	/**
-	 * Test method for {@link org.redquark.hundred.algorithms._11McCarthy91#mccarthy(int)}.
+	 * Test method for {@link org.redquark.hundred.algorithms._011McCarthy91#mccarthy(int)}.
 	 */
 	@Test
 	void testMccarthy() {
