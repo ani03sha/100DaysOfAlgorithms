@@ -9,13 +9,13 @@ import org.junit.jupiter.api.Test;
  * @author Anirudh Sharma
  *
  */
-class _16NoConditionSwapTest {
+class _016NoConditionSwapTest {
 
-	private _16NoConditionSwap ncs = new _16NoConditionSwap();
+	private _016NoConditionSwap ncs = new _016NoConditionSwap();
 
 	/**
 	 * Test method for
-	 * {@link org.redquark.hundred.algorithms._16NoConditionSwap#swap(int, int)}.
+	 * {@link org.redquark.hundred.algorithms._016NoConditionSwap#swap(int, int)}.
 	 */
 	@Test
 	void testSwap() {

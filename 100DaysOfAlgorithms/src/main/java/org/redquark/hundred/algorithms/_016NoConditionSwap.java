@@ -4,7 +4,7 @@ package org.redquark.hundred.algorithms;
  * @author Anirudh Sharma
  *
  */
-public class _16NoConditionSwap {
+public class _016NoConditionSwap {
 
 	/**
 	 * This method will swap two passed numbers using the bitwise XOR operator
