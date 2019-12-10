@@ -8,13 +8,13 @@ import org.junit.jupiter.api.Test;
  * @author Anirudh Sharma
  *
  */
-class _13ExtendedEuclideanAlgorithmTest {
+class _013ExtendedEuclideanAlgorithmTest {
 
-	_13ExtendedEuclideanAlgorithm eea = new _13ExtendedEuclideanAlgorithm();
+	_013ExtendedEuclideanAlgorithm eea = new _013ExtendedEuclideanAlgorithm();
 
 	/**
 	 * Test method for
-	 * {@link org.redquark.hundred.algorithms._13ExtendedEuclideanAlgorithm#gcd(int, int, int, int)}.
+	 * {@link org.redquark.hundred.algorithms._013ExtendedEuclideanAlgorithm#gcd(int, int, int, int)}.
 	 */
 	@Test
 	void testGcd() {

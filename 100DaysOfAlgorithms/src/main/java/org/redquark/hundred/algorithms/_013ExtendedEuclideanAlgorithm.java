@@ -9,7 +9,7 @@ package org.redquark.hundred.algorithms;
  * @author Anirudh Sharma
  *
  */
-public class _13ExtendedEuclideanAlgorithm {
+public class _013ExtendedEuclideanAlgorithm {
 
 	/**
 	 * This method finds the GCD that will satisfy the linear Diophantine equation
