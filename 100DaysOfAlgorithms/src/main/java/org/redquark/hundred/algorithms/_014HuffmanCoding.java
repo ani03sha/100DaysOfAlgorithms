@@ -12,7 +12,7 @@ import java.util.PriorityQueue;
  * @author Anirudh Sharma
  *
  */
-public class _14HuffmanCoding {
+public class _014HuffmanCoding {
 
 	// Prefix map for character
 	private Map<Character, String> characterPrefixMap = new HashMap<>();

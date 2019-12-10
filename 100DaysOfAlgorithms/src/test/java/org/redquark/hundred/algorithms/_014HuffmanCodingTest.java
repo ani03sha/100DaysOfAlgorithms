@@ -8,9 +8,9 @@ import org.junit.jupiter.api.Test;
  * @author Anirudh Sharma
  *
  */
-class _14HuffmanCodingTest {
+class _014HuffmanCodingTest {
 
-	_14HuffmanCoding hc = new _14HuffmanCoding();
+	_014HuffmanCoding hc = new _014HuffmanCoding();
 
 	/**
 	 * Test method for both encoding and decoding a String using Huffman Coding
