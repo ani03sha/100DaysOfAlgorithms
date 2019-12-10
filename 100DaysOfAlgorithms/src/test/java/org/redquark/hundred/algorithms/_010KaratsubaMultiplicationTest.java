@@ -8,12 +8,12 @@ import org.junit.jupiter.api.Test;
  * @author Anirudh Sharma
  *
  */
-class _10KaratsubaMultiplicationTest {
+class _010KaratsubaMultiplicationTest {
 	
-	_10KaratsubaMultiplication km = new _10KaratsubaMultiplication();
+	_010KaratsubaMultiplication km = new _010KaratsubaMultiplication();
 
 	/**
-	 * Test method for {@link org.redquark.hundred.algorithms._10KaratsubaMultiplication#multiply(long, long)}.
+	 * Test method for {@link org.redquark.hundred.algorithms._010KaratsubaMultiplication#multiply(long, long)}.
 	 */
 	@Test
 	void testMultiply() {

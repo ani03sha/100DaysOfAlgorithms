@@ -4,7 +4,7 @@ package org.redquark.hundred.algorithms;
  * @author Anirudh Sharma
  *
  */
-public class _10KaratsubaMultiplication {
+public class _010KaratsubaMultiplication {
 
 	/**
 	 * This method returns the result of x * y using Karatsuba Multiplication
