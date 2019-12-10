@@ -19,7 +19,7 @@ This repository contains 100 algorithms - one for each day. This is inspired fro
 - [x] One Time Pad Encryption
 - [x] No-Condition Swap
 - [x] Perceptron
-- [ ] Monopoly
+- [x] Monopoly
 - [ ] Counting Inversions
 - [ ] Linearithmic Multiplication
 - [ ] K-Means
