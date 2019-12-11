@@ -20,7 +20,7 @@ This repository contains 100 algorithms - one for each day. This is inspired fro
 - [x] No-Condition Swap
 - [x] Perceptron
 - [x] Monopoly
-- [ ] Counting Inversions
+- [x] Counting Inversions
 - [ ] Linearithmic Multiplication
 - [ ] K-Means
 - [ ] Determinant
