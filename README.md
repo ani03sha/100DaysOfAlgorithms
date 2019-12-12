@@ -21,7 +21,7 @@ This repository contains 100 algorithms - one for each day. This is inspired fro
 - [x] Perceptron
 - [x] Monopoly
 - [x] Counting Inversions
-- [ ] Linearithmic Multiplication
+- [x] Strassen Algorithm
 - [ ] K-Means
 - [ ] Determinant
 - [ ] Sudoku
