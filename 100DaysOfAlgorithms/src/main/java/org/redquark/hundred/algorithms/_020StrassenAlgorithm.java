@@ -4,7 +4,7 @@ package org.redquark.hundred.algorithms;
  * @author Anirudh Sharma
  *
  */
-public class _20StrassenAlgorithm {
+public class _020StrassenAlgorithm {
 
 	/**
 	 * This method returns the multiplication of two square matrices of order NxN in

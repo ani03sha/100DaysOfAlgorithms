@@ -8,13 +8,13 @@ import org.junit.jupiter.api.Test;
  * @author Anirudh Sharma
  *
  */
-class _20StrassenAlgorithmTest {
+class _020StrassenAlgorithmTest {
 
-	_20StrassenAlgorithm strassen = new _20StrassenAlgorithm();
+	_020StrassenAlgorithm strassen = new _020StrassenAlgorithm();
 
 	/**
 	 * Test method for
-	 * {@link org.redquark.hundred.algorithms._20StrassenAlgorithm#multiply(int[][], int[][])}.
+	 * {@link org.redquark.hundred.algorithms._020StrassenAlgorithm#multiply(int[][], int[][])}.
 	 */
 	@Test
 	void testMultiply() {
