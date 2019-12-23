@@ -23,7 +23,7 @@ This repository contains 100 algorithms - one for each day. This is inspired fro
 - [x] Counting Inversions
 - [x] Strassen Algorithm
 - [x] K-Means
-- [ ] Determinant
+- [x] Determinant
 - [ ] Sudoku
 - [ ] Closest Pair of Points
 - [ ] Conjugate Gradients
