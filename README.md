@@ -22,7 +22,7 @@ This repository contains 100 algorithms - one for each day. This is inspired fro
 - [x] Monopoly
 - [x] Counting Inversions
 - [x] Strassen Algorithm
-- [ ] K-Means
+- [x] K-Means
 - [ ] Determinant
 - [ ] Sudoku
 - [ ] Closest Pair of Points
