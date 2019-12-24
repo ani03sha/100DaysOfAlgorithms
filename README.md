@@ -24,7 +24,7 @@ This repository contains 100 algorithms - one for each day. This is inspired fro
 - [x] Strassen Algorithm
 - [x] K-Means
 - [x] Determinant
-- [ ] Sudoku
+- [x] Sudoku
 - [ ] Closest Pair of Points
 - [ ] Conjugate Gradients
 - [ ] Karger's Mincut
