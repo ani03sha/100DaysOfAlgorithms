@@ -26,7 +26,7 @@ This repository contains 100 algorithms - one for each day. This is inspired fro
 - [x] Determinant
 - [x] Sudoku
 - [x] Closest Pair of Points
-- [ ] Conjugate Gradients
+- [x] Solve Linear Equations
 - [ ] Karger's Mincut
 - [ ] Spiral Matrix
 - [ ] Convex Hull
